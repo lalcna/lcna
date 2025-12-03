@@ -47,6 +47,8 @@ This project is built with **PHP**, **MySQL**, **HTML/CSS**, and **Vanilla JavaS
 
 ##  Clone this repository
 
+git clone https://github.com/lalcna/lcna.git
+
 Using **GitHub CLI**:
 
 ```bash
