@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 03, 2025 at 10:06 AM
+-- Generation Time: Dec 03, 2025 at 10:22 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -39,9 +39,6 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `role`) VALUES
-(2, 'editor', '$2y$10$g7EK/Sm8aeSGJYzT5E43OucnxQ2h4jeg9N6R8LG/AuFrEPeYWXYsO', 'editor'),
-(3, 'chungnunga', '$2y$10$NhF.f2rpn.cugtLCUDiiQO94cmsja9ZQMA1IaVLAeplp8sorTU.UK', 'admin'),
-(6, 'prakhar', '$2y$10$GGykPLzFV84dfbqO0qvCde9P7EXQu/2Vj3tOq29HsAdBbngGTHqVO', 'editor'),
 (7, 'editorial', '$2y$10$YWjECWls/WW29GpB0I/KdOYzLa12S05.UaRhKinvdyVDPElfeZzpi', 'admin');
 
 -- --------------------------------------------------------
